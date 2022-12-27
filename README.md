@@ -4,7 +4,6 @@ Clone this repo, install node_modules, and recreate the provided sample program.
 
 ## Description of the Program to Recreate
 
-The program should display two buttons and a live count. One button should increment the count, the other should be
-a toggle that changes to an opposite state on each press.
+The program should display two buttons and a live count. One button increments the count, another decrements the count, and the last one cycles through different labels each time it's pressed.
 
-https://user-images.githubusercontent.com/76745029/209590519-25cac36f-c1ac-4ca1-8830-8ba457635cc7.mp4
+https://user-images.githubusercontent.com/76745029/209591019-9fe93883-28e4-42fa-93dc-73ee5afff9f1.mp4
