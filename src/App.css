@@ -1,0 +1,14 @@
+html{
+
+    background-color: white;
+}
+
+
+/* .inner{
+
+}  */
+.outer{
+   background-color: white;
+   width: 100vw;
+   height: 100vh;
+}
