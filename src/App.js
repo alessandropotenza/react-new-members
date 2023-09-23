@@ -17,7 +17,7 @@ function App() {
   }
 
   function cycle() {
-    setIndex((currIndex) => (currIndex + 1) % cyclingValues.length
+    setIndex((currIndex) => (currIndex + 1) % cyclingValues.length)
   }
 
   return (
