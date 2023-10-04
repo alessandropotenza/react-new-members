@@ -1,0 +1,44 @@
+
+
+
+.centering {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    user-select: none;
+    position: 'absolute';
+    left: '50%';
+    top: '50%';
+}
+
+.numberdisplay {
+    font-size: 80px;
+    user-select: none;
+}
+
+.bluebutton {
+    font-size: 40px;
+    font-weight: bold;
+
+    background-color: rgb(11, 138, 248);
+    border-radius: 10px;
+    border-style: none;
+    width: 100px;
+    height: 100px;
+
+    margin: 10px;
+}
+
+.textbutton {
+    font-size: x-large;
+    font-weight: bold;
+
+    background-color: rgb(11, 138, 248);
+    border-radius: 10px;
+    border-style: none;
+    height: 50px;
+
+    margin: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
