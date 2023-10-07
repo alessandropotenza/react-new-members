@@ -7,22 +7,19 @@ function App() {
   const [value, setValue] = useState(2);
   const [text, setText] = useState("First");
 
-  function multiply() {
+  function multiply() { // Modify this function
     setValue(value * 2)
   }
 
-  function divide() {
+  function divide() { // Modify this function
     setValue(value / 2)
   }
 
-  function change_text() {
+  function change_text() { // Modify this function
     if (text == "First") {
       setText("Second");
     }
     else if (text == "Second") {
-      setText("Third");
-    }
-    else if (text == "Third") {
       setText("First");
     }
   }
